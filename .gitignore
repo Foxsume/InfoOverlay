@@ -1,0 +1,59 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+desktop.ini
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebugSingle/
+[Dd]ist/
+[Dd]istOutput/
+[Dd]ebugTeamBuild/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Dd]ReleaseSingle/
+[Dd]TestResults/
+[Dd]Test/
+[Dd]xproj/
+
+# Windows Installer files
+*.dbmdl
+*.bak
+*.log
+
+# User-specific files for Visual Studio
+.vs2019/
+.vs2017/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Npm packages
+node_modules/
+
+# JetBrains Rider
+.idea/
+
+# Other build output
+bin/
+obj/
+
+# Tye configuration file
+.tye/
+
+# Publish folder
+publish/
+
+# VS for Mac
+.vscode/
